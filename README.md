@@ -4,8 +4,8 @@ This repository contains a set of REPORTS for the resolutions of some CTFs avail
 
 ### HackTheBox
 
-- [Machines](./Machines/README.md)
+- [Machines](./HackTheBox/Machines/README.md)
 
-- [Sherlocks](./Sherlocks/README.md)
+- [Sherlocks](./HackTheBox/Sherlocks/README.md)
 
 ---
