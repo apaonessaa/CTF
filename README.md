@@ -8,4 +8,6 @@ This repository contains a set of REPORTS for the resolutions of some CTFs avail
 
 - [Sherlocks](./HackTheBox/Sherlocks/README.md)
 
+- [Academy](./HackTheBox/Academy/README.md)
+
 ---
