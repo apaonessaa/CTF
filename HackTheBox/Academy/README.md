@@ -1,5 +1,5 @@
 # **Academy**
 
-- [Introduction to Malware Analysis](./Introduction to Malware Analysis/Report.md)
+- [Introduction to Malware Analysis](../Academy/Introduction%20to%20Malware%20Analysis/Report.md)
 
 ---
