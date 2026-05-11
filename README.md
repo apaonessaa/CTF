@@ -1,4 +1,4 @@
-# CTF-reports
+# CTF
 
 This repository contains a set of REPORTS for the resolutions of some CTFs available on various platforms.
 
