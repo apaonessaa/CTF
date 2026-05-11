@@ -10,4 +10,8 @@ This repository contains a set of REPORTS for the resolutions of some CTFs avail
 
 - [Academy](./HackTheBox/Academy/README.md)
 
+### TryHackMe
+
+- [pwn101](./TryHackMe/pwn101/README.md)
+
 ---
