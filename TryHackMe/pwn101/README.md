@@ -1,4 +1,4 @@
-# pwn101
+# 👾 pwn101
 
 TryHackMe pwn101 room **binary exploitation** write-ups.
 
